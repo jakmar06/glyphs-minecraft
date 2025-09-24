@@ -77,7 +77,7 @@ Dodaj swoje prefixy, trzymając się tego formatu:
 
 ## ⚙️ Znaczenie parametrów `ascent`, `height`, `file` i `chars`
 
-- **`ascent`** – Odpowiada za położenie textury (w poionie)
+- **`ascent`** – Odpowiada za położenie textury (w pionie)
 - **`height`** – Odpowiada za wielkość textury
 - **`file`** - Odpowiada za ścieżkę do textury
 - **`chars`** Odpowiada za custom znak który ma być wykorzystany do zmiany textury
