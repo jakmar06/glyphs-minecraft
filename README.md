@@ -11,13 +11,13 @@ Możesz je przygotować w dowolnym programie graficznym (np. Photoshop, GIMP, Pa
 Maksymalny zalecany wymiar: **256x256**
 
 Dla przykładu zrobiłem 4 proste prefixy:
+| Ranga      | Wymiary Textury | Custom Znak | Textura Prefixu |
+|-----------|---------|-------------|--------|
+| **Właściciel** | 91×16 | ᜀ | ![obraz](https://github.com/user-attachments/assets/806ef04f-92a1-4480-a0c1-245ee7724185) |
+| **Moderator** | 79×16 | ᜁ | ![obraz](https://github.com/user-attachments/assets/5cf5a056-3ecd-4968-b1eb-dae54fc78554) |
+| **VIP**        | 75×16 | ᜂ| ![obraz](https://github.com/user-attachments/assets/80da3696-c153-411e-95df-e80ead225abf) |
+| **Gracz**      | 87×16 | ᜃ | ![obraz](https://github.com/user-attachments/assets/4fdb46a1-31b1-4de5-b3c9-3719414fda27) |
 
-| Ranga      | Wymiary | Podgląd |
-|-----------|---------|--------|
-| **Właściciel** | 91×16 | ![obraz](https://github.com/user-attachments/assets/806ef04f-92a1-4480-a0c1-245ee7724185) |
-| **Moderator** | 79×16 | ![obraz](https://github.com/user-attachments/assets/5cf5a056-3ecd-4968-b1eb-dae54fc78554) |
-| **VIP**        | 75×16 | ![obraz](https://github.com/user-attachments/assets/80da3696-c153-411e-95df-e80ead225abf) |
-| **Gracz**      | 87×16 | ![obraz](https://github.com/user-attachments/assets/4fdb46a1-31b1-4de5-b3c9-3719414fda27) |
 
 ---
 
