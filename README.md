@@ -113,9 +113,9 @@ resource-pack=https://download.mc-packs.net/pack/baf77fd7bbc3b735975db4193688517
 resource-pack-sha1=baf77fd7bbc3b735975db419368851796885370a 
 ```
 
-- Pierwsza linia wymusza włączenie paczki. ( true wymusza, false nie wymusza)
+- Pierwsza linia wymusza pobranie resourcepacka. ( true wymusza, false nie wymusza)
 - Druga linia to link do paczki.
-- Trzecia linia to hash SHA-1. ( Przydatne, gdy używasz tego samego resourcepacka na paru instancjach, wtedy gracze przechodząc z trybu na tryb nie będą go ponownie ładować )
+- Trzecia linia to hash SHA-1. (Przydatne, gdy używasz tego samego resourcepacka na paru instancjach, wtedy gracze przechodząc z trybu na tryb nie będą go ponownie ładować)
 
 ---
 
