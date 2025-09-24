@@ -110,12 +110,12 @@ Upewnij się, że resourcepack jest zapakowany w formacie **.zip**.
 ```properties
 require-resource-pack=true
 resource-pack=https://download.mc-packs.net/pack/baf77fd7bbc3b735975db419368851796885370a.zip
-resource-pack-sha1=baf77fd7bbc3b735975db419368851796885370a
+resource-pack-sha1=baf77fd7bbc3b735975db419368851796885370a 
 ```
 
-- Pierwsza linia wymusza włączenie paczki.
+- Pierwsza linia wymusza włączenie paczki. ( true wymusza, false nie wymusza)
 - Druga linia to link do paczki.
-- Trzecia linia to hash SHA-1.
+- Trzecia linia to hash SHA-1. ( Przydatne, gdy używasz tego samego resourcepacka na paru instancjach, wtedy gracze przechodząc z trybu na tryb nie będą go ponownie ładować )
 
 ---
 
