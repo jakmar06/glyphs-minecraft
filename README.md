@@ -84,7 +84,8 @@ Dodaj swoje prefixy, trzymając się tego formatu:
 🔧 Zalecane wartości: **7 / 8**
 
 Gotowy efekt na chacie:  
-<img width="412" height="18" alt="358780847-d445d342-a27d-4fa4-a08f-412c91809e8f" src="https://github.com/user-attachments/assets/39321695-2a0b-4105-8451-936231f5c568" />
+<img width="439" height="18" alt="358780551-aaa07922-7122-47e5-ab4b-0e9342c1fcec" src="https://github.com/user-attachments/assets/2700c185-3226-4386-aa04-143de6838b41" />
+
 
 
 > ⚠️ **Uwaga:** nie ustawiaj zbyt dużych wartości – zbyt wysokie wartości mogą spowodować nieprawidłowe załadowanie textury
@@ -119,8 +120,7 @@ resource-pack-sha1=baf77fd7bbc3b735975db419368851796885370a
 
 **1. Textura zostanie zabarwiona (np po kolorze nicku, czy chatu)**
 
-https://github.com/user-attachments/assets/d445d342-a27d-4fa4-a08f-412c91809e8f
-
+<img width="412" height="18" alt="358780847-d445d342-a27d-4fa4-a08f-412c91809e8f" src="https://github.com/user-attachments/assets/e3a5a2e3-d217-4c3c-8d6a-664aa33a13cf" />
 ``Aby uniknąć tego problemu kolor prefixu musi zostać zresetowany (<white>/<reset>/&f/&r/§f/§r)``
 
 **2. Gracze odnajdą twój znak** 
