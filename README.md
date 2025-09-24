@@ -129,7 +129,11 @@ Jeżeli gracze znajdą twój znak będą mogli nim zaspamić chat, co by mogło 
 
 ``Aby rozwiązać problem, należy pobrać dowolny plugin na blokadę słów/znaków, przykładowo [chatmanagera](https://modrinth.com/plugin/chatmanager)``
 
-**3. Ładowanie resourcepacka po dołączeniu na serwer proxy**
+**3. Ikonka mimo prawidłowej ścieżki się nie pojawia**
+
+``Aby rozwiązać ten problem, sprawdź czy textura w nazwie nie ma spacji, jest w formacie .png, nie zawiera polskich znaków, nie zawiera dużych znaków, oraz ma rozmiar mniejszy niż 256``
+
+**4. Ładowanie resourcepacka po dołączeniu na serwer proxy**
 
 Jeżeli chcesz, aby gracze ładowali texturepack już z poziomu serwera proxy to zainstaluj plugin [forcepack](https://github.com/SamB440/ForcePack/releases). Pozwoli to między innymi na jednoczesne przeładowanie resourcepacka dla każdego gracza na sieci, a nie tylko na konkretnym serwerze.
 
