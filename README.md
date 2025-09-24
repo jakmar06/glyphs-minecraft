@@ -33,7 +33,7 @@ Dla przykładu zrobiłem 4 proste prefixy:
 
 Przejdź do:  
 **`assets/minecraft/font/default.json`**  
-i otwórz plik. Znajdziesz tam mapowanie znaków na obrazki.
+i otwórz plik.
 
 Dodaj swoje prefixy, trzymając się tego formatu:  
 > [Lista przykładowych znaków do użycia](https://jrgraphix.net/r/Unicode/E000-F8FF)
