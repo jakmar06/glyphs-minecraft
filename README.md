@@ -84,7 +84,8 @@ Dodaj swoje prefixy, trzymając się tego formatu:
 🔧 Zalecane wartości: **7 / 8**
 
 Gotowy efekt na chacie:  
-![obraz](https://github.com/user-attachments/assets/aaa07922-7122-47e5-ab4b-0e9342c1fcec)
+<img width="412" height="18" alt="358780847-d445d342-a27d-4fa4-a08f-412c91809e8f" src="https://github.com/user-attachments/assets/39321695-2a0b-4105-8451-936231f5c568" />
+
 
 > ⚠️ **Uwaga:** nie ustawiaj zbyt dużych wartości – zbyt wysokie wartości mogą spowodować nieprawidłowe załadowanie textury
 
