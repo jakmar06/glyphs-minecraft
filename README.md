@@ -131,8 +131,8 @@ resource-pack-sha1=baf77fd7bbc3b735975db419368851796885370a
 
 Jeżeli gracze znajdą twój znak będą mogli nim zaspamić chat, co by mogło zniszczyć jego czytelność.
 
-``Aby rozwiązać problem, należy pobrać dowolny plugin na blokadę słów/znaków, przykładowo`` [carbonchat]([https://modrinth.com/plugin/chatmanager](https://modrinth.com/plugin/carbon))
-``Wiki dla carbonchatu:`` https://github.com/Hexaoxide/Carbon/wiki/Basic-Configuration#chat-filter
+``Aby rozwiązać problem, należy pobrać dowolny plugin na blokadę słów/znaków, przykładowo`` [carbonchat](https://modrinth.com/plugin/carbon)
+Wiki dla: [carbonchatu](https://github.com/Hexaoxide/Carbon/wiki/Basic-Configuration#chat-filter)
 
 **3. Ikonka mimo prawidłowej ścieżki się nie pojawia**
 
