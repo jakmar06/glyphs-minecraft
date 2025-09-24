@@ -7,7 +7,7 @@ Dobra wiadomość – to jest **bardzo proste**, zrobisz to w **maksymalnie 5 mi
 ## 🖌️ Krok 1: Stwórz własne tekstury prefixów
 
 Możesz je przygotować w dowolnym programie graficznym (np. Photoshop, GIMP, Paint.NET, libresprite, asperite, blockbench).  
-Maksymalny zalecany wymiar: **256x256**
+Maksymalny wymiar: **256x256**
 
 Dla przykładu zrobiłem 4 proste prefixy:
 | Ranga      | Wymiary Textury | Custom Znak | Textura Prefixu |
