@@ -124,6 +124,7 @@ resource-pack-sha1=baf77fd7bbc3b735975db419368851796885370a
 **1. Textura zostanie zabarwiona (np po kolorze nicku, czy chatu)**
 
 <img width="412" height="18" alt="358780847-d445d342-a27d-4fa4-a08f-412c91809e8f" src="https://github.com/user-attachments/assets/e3a5a2e3-d217-4c3c-8d6a-664aa33a13cf" />
+
 ``Aby uniknąć tego problemu kolor prefixu musi zostać zresetowany (&f/&r/§f/§r)``
 
 **2. Gracze odnajdą twój znak** 
