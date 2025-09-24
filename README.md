@@ -82,7 +82,9 @@ Dodaj swoje prefixy, trzymając się tego formatu:
 - **`file`** - Odpowiada za ścieżkę do textury
 - **`chars`** Odpowiada za custom znak który ma być wykorzystany do zmiany textury
 
-🔧 Zalecane wartości: **7 / 8**
+🔧 Zalecane wartości:
+- **`ascent`** - 7
+- **`height`** - 8
 
 Gotowy efekt na chacie:  
 <img width="439" height="18" alt="358780551-aaa07922-7122-47e5-ab4b-0e9342c1fcec" src="https://github.com/user-attachments/assets/2700c185-3226-4386-aa04-143de6838b41" />
