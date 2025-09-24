@@ -80,7 +80,7 @@ Dodaj swoje prefixy, trzymając się tego formatu:
 - **`ascent`** – Odpowiada za położenie textury (w pionie)
 - **`height`** – Odpowiada za wielkość textury
 - **`file`** - Odpowiada za ścieżkę do textury
-- **`chars`** Odpowiada za custom znak który ma być wykorzystany do zmiany textury
+- **`chars`** - Odpowiada za custom znak który ma być wykorzystany do zmiany textury
 
 🔧 Zalecane wartości:
 - **`ascent`** - 7
