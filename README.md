@@ -1,7 +1,6 @@
 # 📖 Jak zrobić **custom prefixy** na serwerze Minecraft za pomocą Resource Packa?
 
-Dobra wiadomość – to jest **bardzo proste**, a co najważniejsze – **nie potrzebujesz do tego żadnego pluginu**!  
-Wystarczy Resource Pack i kilka minut pracy.  
+Dobra wiadomość – to jest **bardzo proste**, zrobisz to w **maksymalnie 5 minut**, a co najważniejsze – **nie potrzebujesz do tego żadnego pluginu**!  
 
 ---
 
