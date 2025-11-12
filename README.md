@@ -144,7 +144,7 @@ Jeżeli chcesz, aby gracze ładowali texturepack już z poziomu serwera proxy to
 
 # Poradnik do tworzenia custom gui
 
-1. Jak cofnąć twoje gui? 
+1. Jak cofnąć w lewo twoje gui? 
 
 ``Wklej ten fragment do twojego pliku z niestandardowymi fontami i ustaw "ベ" przed znakiem od gui``
 
