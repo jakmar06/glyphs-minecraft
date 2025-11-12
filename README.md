@@ -38,7 +38,7 @@ i otwórz plik.
 Dodaj swoje prefixy, trzymając się tego formatu:  
 > [Lista przykładowych znaków do użycia](https://jrgraphix.net/r/Unicode/E000-F8FF)
 
-```jsonc
+```json
 {
     "providers": [
         {
@@ -144,6 +144,17 @@ Jeżeli chcesz, aby gracze ładowali texturepack już z poziomu serwera proxy to
 
 # Poradnik do tworzenia custom gui
 
-⚠️ Poradnik jest w trakcie tworzenia
+1. Jak cofnąć twoje gui? 
+
+``Wklej ten fragment do twojego pliku z niestandardowymi fontami i ustaw "ベ" przed znakiem od gui``
+
+```json
+        {
+            "type": "space",
+            "advances": {
+                "ベ": -8
+            }
+        },
+```        
 
 
